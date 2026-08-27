@@ -29,7 +29,7 @@ export function Header({ className }: { className?: string }) {
       <div className="flex items-center justify-between w-full">
         <Link to="/" className="flex items-center space-x-2">
           <PawPrint className="h-6 w-6" />
-          <span className="text-xl font-bold">ウマとアライのコンテナショップ</span>
+          <span className="text-xl font-bold">繧ｦ繝槭→繧｢繝ｩ繧､縺ｮ繧ｳ繝ｳ繝�リ繧ｷ繝ｧ繝��</span>
         </Link>
 
         <nav>
